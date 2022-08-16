@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-$x^2=\sum_{i=a}^{b}y_i$
-
+┬──
+│ ┬
+└─┘ 
 
 ### More Information
 
